@@ -1,0 +1,46 @@
+_repo: Christuslegenden_44506
+_version: 0.1.0
+alternative_title: Kristuslegender. Dutch
+contributor:
+  translator:
+    agent_name: Meijboom, Margaretha
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '33842'
+    url: http://www.gutenberg.org/2009/agents/33842
+covers:
+- cover_type: archival
+  image_path: 44506-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2013-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44506'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcc 'PT'
+- !lcc 'PZ'
+- !lcsh 'Short stories'
+- !lcsh 'Jesus Christ -- Juvenile fiction'
+tableOfContents: De heilige nacht -- Het visioen van den Keizer -- De bron der Wijzen
+  -- De Kinderen van Bethlehem -- De vlucht naar Egypte -- In Nazareth -- In den Tempel
+  -- De Zweetdoek van de Heilige Veronica -- Vogel Roodborst -- Onze Lieve Heer en
+  de Heilige Petrus -- De Kaarsvlam.
+title: Christuslegenden
+url: http://www.gutenberg.org/ebooks/44506
